@@ -1,4 +1,20 @@
 # Procedural Jellyfish
+I created a procedural jellyfish in Houdini.
+
+## Bell
+<img src="Assets//bell.png" width="650"/>
+
+## Arms
+<img src="Assets//arms.png" width="650"/>
+
+## Veins
+<img src="Assets//veins.png" width="650"/>
+
+## Organs
+<img src="Assets//myOrgans.png" width="650"/>
+
+## Tentacles
+<img src="Assets//tentacles.png" width="650"/>
 
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
